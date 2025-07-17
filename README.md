@@ -22,7 +22,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sahil-09/sahil-09/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sahilp999/sahilp999/output/snake.svg" alt="Snake animation" />
 
 ###
 

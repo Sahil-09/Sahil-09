@@ -1,11 +1,6 @@
 <h2 align="center">Sahil Patel - Full Stack Developer</h2>
 
 ###
-
-<div align="center">
-  <img height="244" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif"  />
-</div>
-
 ###
 
 <div align="center">

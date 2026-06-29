@@ -1,5 +1,10 @@
-<h2 align="center">Sahil Patel - Full Stack Developer</h2>
+<h2 align="center">Hi there 👋, I'm Sahil Patel</h2>
 
+🚀 Full Stack Software Engineer with 4+ years of professional experience building scalable, high-performance web applications and backend services.
+
+My primary expertise lies in JavaScript/TypeScript ecosystems, where I design and develop modern applications using Angular, Node.js, NestJS, MongoDB, and SQL Server. I enjoy solving complex engineering challenges, optimizing system performance, and building reliable distributed systems.
+
+Recently, I've been expanding my knowledge in Artificial Intelligence, exploring LLMs, AI-powered applications, agentic workflows, and modern AI development tools.
 ###
 ###
 ![Project Banner](.github/assets/githubmd_new.jpg)
@@ -16,6 +21,10 @@
   </a>
 </div>
 
+‍💻 GitHub Profiles
+
+- Personal GitHub: <br><a href='https://github.com/sahil-09' target='_blank'><img src="https://skillicons.dev/icons?i=github"></a>
+- Work GitHub: <br><a href='https://github.com/sahilp999' target='_blank'><img src="https://skillicons.dev/icons?i=github"></a>
 ###
 
 <img src="https://raw.githubusercontent.com/sahil-09/sahil-09/output/snake.svg" alt="Snake animation" />

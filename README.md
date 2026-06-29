@@ -2,7 +2,7 @@
 
 ###
 ###
-![Project Banner](.github/assets/githubmd.jpg)
+![Project Banner](.github/assets/githubmd_new.jpg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sahil-z-patel/" target="_blank">
